@@ -19,6 +19,6 @@
   "homepage": "https://github.com/brphelps/test-repo#readme",
   "dependencies": {
     "lodash": "^4.17.11",
-    "mathjs": "~3.10.3"
+    "mathjs": "~4.0.0"
   }
 }
